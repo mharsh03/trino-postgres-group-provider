@@ -1,0 +1,3 @@
+io/psg/trino/groupprovider/postgres/PostgresGroupProvider.class
+io/psg/trino/groupprovider/postgres/PostgresGroupProviderPlugin.class
+io/psg/trino/groupprovider/postgres/PostgresGroupProviderFactory.class
